@@ -1,0 +1,127 @@
+Title:  Finding the speed of sound in air
+
+Introduction:  
+Key Terms:
+	Wavelength:  The distance (meters) between the peaks or troughs of the wave.  Also can be the distance (meters) from any point on the wave to the next point on the wave where the shape repeats.
+	Frequency:  How many times the wave goes through a complete cycle in one second.  Measured in Hertz (s-1).
+	Resonance:  When a wave hits a surface and bounces back as a mirror (flipped) version of what it was before and its nodes match up with the wave going toward the surface.  Its antinodes are opposite each other and the nodes cancel each other out but the antinodes cause constructive interference because they are at the maximum displacement from each other.  This can cause a humming sound with a sound wave.  When the length between the sound wave origin and the surface is at ¼ its wavelength, ¾ its wavelength, or any n+14its wavelength where n is 0 or any positive, even integer, resonance occurs because the nodes match up with each other and the antinodes are opposite each other with maximum displacement.  At these lengths, a standing wave is formed.  For this experiment, it was assumed that the length was ¼ of the wavelength.
+	Standing wave:  Where the nodes of the wave cancel each other out and the antinodes are opposite each other.  This can cause resonance.
+(Khan Academy 2019)
+
+	Using the relationship of frequency, velocity, and wavelength described by the equation V=f (velocity = frequency times wavelength), the velocity of the sound wave can be found if one knows both the frequency of the wave and its wavelength.
+	A sound wave is a longitudinal wave where the wave moves in a certain direction and the particles that compose the wave move in the same direction.  The particles in a longitudinal wave tend to be closer together and farther apart.
+
+Materials:
+Tuning forks with known frequencies
+PVC pipe
+Measuring cylinder
+Meter ruler
+Masking tape
+Thermometer
+Rubber stopper
+Water
+Graph paper
+Pencil
+
+Safety Regards:
+	The thermometer contains mercury which can be a hazardous chemical if spilled when broken.  The glass beakers are very fragile and can break easily which is what occured in this experiment, and broken glass is dangerous.  It is very important to be mindful of the fragility of glassware at all times when in use, and they should be handled with the greatest care.
+
+
+Methods:
+Setup (There was a person holding the tube instead of a clamp) (Ozen, 2018)
+
+Standing Wave (Arizona State University Department of Physics, 2012)
+
+
+ The following materials were retrieved:  Graph paper, pencil, meter ruler, rubber stopper, PVC pipe, glass beaker (measuring cylinder), and 3 tuning forks with known frequencies.
+The glass beaker was filled with 875 mL of water and the PVC pipe was put into it.
+The thermometer was put into the PVC pipe but above into the water.  A reading was taken of 23 degrees Celsius.
+A tuning fork was chosen and its frequency was recorded.
+The tuning fork was hit against the rubber stopper and then held above the mouth of the PVC pipe.  The PVC pipe was lifted up and down while the tuning fork remained the same distance from the mouth of the pipe.  When the loudest resonance sound was heard, the distance from the water to the tuning fork was measured with the meter ruler and recorded.  If the tuning fork hit the pipe or lost intensity, it was hit again.
+Steps 4 and 5 were repeated 9 times with five different frequency tuning forks to increase accuracy using averages.  A problem was encountered when the tuning fork did not resonate when the pipe was at its lowest, the pipe was at its highest, and along the continuum no resonance was heard.  To solve this problem, more water was added to the glass beaker (now about 950 mL) so there could be a wider range of available lengths.
+The glass beaker broke when in transit.  This cut off the last readings as we were not permitted to use another measuring cylinder.
+All of the materials (except glass beaker) were put back in their appropriate locations.
+
+Results:
+Un = Uncertainty
+%Un = Percent uncertainty
+Frequency (Hz)(s-1)
+Un = +/- 0.5Hz
+Length of air column from water to tuning fork when resonating (m) (averaged)
+Un = +/- 0.005m
+Wavelength (m) (4 times the length) (using fourth significant figure (0.328 actually 0.3275))
+Un = +/- 0.02m
+Velocity (m/s) (Velocity = frequency times wavelength)
+256 %Un = 0.195
+0.328 %Un = 1.52
+1.31 %Un = 1.52
+335 Un = 5.76   %Un = 1.72
+384 %Un = 0.130
+0.215 %Un = 2.33
+0.86 %Un = 2.33
+330 Un = 8.12   %Un = 2.46
+480 %Un = 0.104
+0.17 %Un = 2.94
+0.68 %Un = 2.94
+326 Un = 9.92   %Un = 3.04
+512 %Un = 0.0977
+0.168 %Un = 2.98
+0.67 %Un = 2.33
+343 Un = 8.33   %Un = 2.43
+640 %Un = 0.0781
+0.122 %Un = 4.10
+0.488 %Un = 4.10
+312 Un = 13.0   %Un = 4.18
+Average velocity = 329 m/s
+Temperature = 23 degrees Celsius
+
+Qualitative:
+	The tuning fork would lose its intensity over time.  Sometimes it would hit the side of the PVC pipe and lose vibrational intensity.  During some of the measurements the pipe would be at a slight angle but this was fixed before measuring.  The resonance was harder to hear with some frequencies versus others.  There was a range when resonating where it resonated but not fully, then hit a climax, then began to lose volume.
+
+Analysis of data:
+	V=f (velocity = frequency times wavelength) shows the relationship between the frequency, velocity, and the wavelength.  This relationship is important because when two are known then the other can be found.
+(HyperPhysics hosted by Georgia State University, 2016)
+	The length of the air column was multiplied by 4 to get the wavelength in the standing wave because this was the distance from the node (water) to the next antinode (mouth of PVC pipe).  One wavelength consists of 4 of these parts because a wavelength is first node to first antinode to second node to second antinode to third node.
+
+Graph:
+
+This graph shows the strong correlation between frequency and wavelength.  This correlation has an R2 of 0.931.  R2 is a measure of how close the data is to the trend its line of best fit represents.  R2 is a number usually between 0 and 1 with 1 being your data perfectly matches the equation of the trend.  The equation of this trendline is Wavelength = -0.0021(Frequency)+1.76.  The slope of this line is about 1.
+
+Problems with the Data:
+	One of our readings for the length of the air column that the 640 Hz tuning fork resonated and was a standing wave with was a large outlier.  This reading was 0.42 meters and the second reading was 0.122 meters.  The 0.42 meters data point was not included in the analysis or results because it would have heavily skewed the trend which was reinforced by all the other data points.  Instead of the graph looking like the one above, it would have looked like this:
+
+The R2 would have gone from a clear trend to almost no trend if this data point was kept.  This data point may come from the second harmonic of the 640 Hz tuning fork and would therefore be ¾ of the wavelength.  If this is true then the graph would look like this with the averaged wavelength of the 640 Hz being 0.402:
+
+	Including the data point as a second harmonic would have increased the R2 by 0.032, showing an even stronger correlation to the trend than when it had been left out.
+
+Discussion:
+	The data shows the trend that the higher the frequency of the wave, the lower the wavelength.  All data points show this which contributes to its legitimacy.  With the 640 Hz tuning fork data point from the above Analysis of data section, it can be inferred that this is from the second harmonic because when it is assumed to be, the correlation with the trend shown from all data points grows.  This trend could be an exponential trend, but more data points are needed.
+
+Evaluation:
+Data:
+	The data collected during the experiment showed a strong trend and the uncertainties did not play a large part overall because no percent uncertainty was above %5.
+
+Experience:
+	The experiment went smoothly until two PVC pipes were taped together with masking tape when trying to get the 128 Hz tuning fork reading.  The resonance was not heard, and the tape was taken off.  The glass measuring beaker breaking was definitely the worst part.
+
+Improvements:
+	Many parts of this experiment could be improved.  A new set of tuning forks could be used to get more accurate data.  Instead of using a hand to hold the PVC pipe, an apparatus could be used to hold it in place and slide it up and down.  More data points could be taken to strengthen the validity of the trend.  More extreme data points could be taken with a wider range of frequencies because the data collected in this experiment had a range of 384 Hz.  The data could have been graphed better during the experiment by spending more time on the spreadsheet during the experiment.  The data could have been collected in a neater way that didn’t involve 12 columns per reading which ended up being 2 columns per reading.
+
+
+Conclusion:
+	In this experiment, the speed of a sound wave travelling through air at a temperature of 23 degrees Celcius was found using some knowledge and understanding of waves and their relationships, most importantly V=f (Velocity equals frequency times wavelength).  The velocity found was 329 m/s.
+	This experiment may be taken further by investigating and exploring other mediums of which a sound wave can travel through and their velocities.  Comparing these velocities to different mediums and investigating how variables like density contribute to velocity would be another extension.
+	The velocity found in this experiment was 329 m/s for a sound wave through 23 degrees Celcius air.  The velocity of the speed of sound at the same temperature was 345 m/s when checked with two different sources (National Weather Service, 2019) (Sengpielaudio, 2019).  This is about a 16 m/s difference which is 4.86% of the value calculated in this experiment (329 m/s).  This falls outside of the percent uncertainty (4.18% vs 4.86%).  Human error may have been the cause of this.
+	This experiment is significant because using the figure calculated for the speed of sound, the frequency of a sound waves from a vibrating object can be found if we can identify its wavelength using the equation V=f (Velocity equals frequency times wavelength).  The speed of sound is also useful for fast moving airplanes so it can be calculated when a sonic boom will occur so that the displaced air will not damage the surrounding.
+
+
+
+Bibliography:
+Alp Ozen, 2018, Measuring the speed of sound in air, Academia, Available from <https://www.academia.edu/36563142/Measuring_the_speed_of_sound_in_air_using_a_tuning_fork>, [accessed on March 11, 2019]
+Khan Academy. (2019). Standing waves on strings. [online] Available at: https://www.khanacademy.org/science/ap-physics-1/ap-mechanical-waves-and-sound/standing-waves-ap/v/standing-waves-on-strings  [Accessed 10 Mar. 2019].
+Hyperphysics.phy-astr.gsu.edu. (2016). Resonance Tube: Velocity of Sound. [online] Available at: http://hyperphysics.phy-astr.gsu.edu/hbase/Class/PhSciLab/restube2.html [Accessed 10 Mar. 2019].
+Flinnsci.com. (2019). [online] Available at: https://www.flinnsci.com/api/library/Download/c59d272237e144f9b921c0f0697fdf6b  [Accessed 10 Mar. 2019].
+Khan Academy. (2019). Standing waves review. [online] Available at: https://www.khanacademy.org/science/ap-physics-1/ap-mechanical-waves-and-sound/standing-waves-ap/a/standing-waves-review-ap  [Accessed 11 Mar. 2019].
+Webassign.net. (2019). Speed of Sound - Resonance Tube. [online] Available at: https://www.webassign.net/labsgraceperiod/asucolphysmechl1/lab_10/manual.html [Accessed 11 Mar. 2019].
+Weather.gov. (2019). Speed of Sound Calculator. [online] Available at: https://www.weather.gov/epz/wxcalc_speedofsound [Accessed 12 Mar. 2019].
+Sengpiel, E. (2019). Speed of sound in air temperature barometric pressure calculator without no table air density of air formula temperature calculation mach 1 acoustic impedance room temperature propagation air density sea level velocity ideal gas 20 degrees or 21 degrees Celsius C cold warm - sengpielaudio Sengpiel Berlin. [online] Sengpielaudio.com. Available at: http://www.sengpielaudio.com/calculator-speedsound.htm [Accessed 12 Mar. 2019].
