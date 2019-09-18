@@ -12,8 +12,8 @@ example_neural_network = nn.NeuralNetwork([[3],[10],[1]], learning_rate = 0.2)
 
 #have your inputs and targets in an array which match the number of inputs and outputs specificed in the initialization of the neural network
 #if you want to use backpropagation and gradient descent in supervised learning
-house_inputs = [[0.2, 0.3, 0.2],[0.3, 0.4, 0.5],[0.25, 0.3, 0.3], [0.18, 0.2, 0.1]]
-house_targets = [[0.13],[0.4],[0.15],[0.7]]
+house_inputs = [[0.2, 0.2, 0.175],[0.2, 0.2, 0.096],[0.3, 0.2, 0.18], [0.3, 0.3, 0.2238]]
+house_targets = [[0.16],[0.053],[0.129],[0.178]]
 
 inputs = [[1,0.01],[0.01,1],[1,1],[0.01,0.01]]
 targets = [[0.99],[0.99],[0.01],[0.01]]
@@ -25,7 +25,7 @@ for i in range(20000):
 
 #check what the network outputs after it has been trained
 #this should be close to the targets
-print(example_neural_network.feedforward([0.22, 0.3, 0.2]))
+print(example_neural_network.feedforward([0.2, 0.3, 0.2]))
 # print(example_neural_network.feedforward(inputs[0]))
 # print(example_neural_network.feedforward(inputs[1]))
 # print(example_neural_network.feedforward(inputs[2]))
