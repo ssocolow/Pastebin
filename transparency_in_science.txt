@@ -1,0 +1,15 @@
+Simon Socolow
+Dr. Stewart
+AP Chemistry
+June 2020
+(Read this with salt)
+
+Transparency in Science
+
+	An important environmental and societal ethic is transparency in science.  What science is aiming to do fundamentally is to improve our lives and further our understanding of everything.  Unfortunately, not all science is performed “well”.  Some scientists could have the financial or personal incentives to ignore data points that don’t contribute well to their hypothesis in order to secure more funding or lie to themselves about being “successful”.  If during an experiment data is recollected so that the p value falls below the 0.05 threshold of “statistical significance”, then that experiment has fallen victim to “data manipulation”.  There are very real reasons why scientists would do this and here is a list of real scientific misconduct incidents: https://en.wikipedia.org/wiki/List_of_scientific_misconduct_incidents.  People usually don’t want to read about failed experiments and hypotheses or low correlations or statistically insignificant results.  And publications for profit usually don’t publish what their audience would not like to read.  This is where the problem of “availability bias” in scientific discoveries comes into play.  Think about this: if most scientific endeavors result in “failure” of some kind, then why do we usually only read and hear about “successful” ones?  “Success” and “failure” do not have a real place in science because the only real failed experiment is one that you don’t learn anything from.  “Failed” experiments can be just as important as “successful” ones because science is a quest into the unknown where knowledge is power.  In this day and age critical thinking and the power to dig deeper are important in filtering information.  The power to dig deeper has brought on many insights including the modern environmental movement started by Rachel Carson’s book, Silent Spring [1].  Remember what Abraham Lincoln said: “Don’t believe everything you read on the internet”.
+	This is where transparency in science comes up.  Scientists should be transparent about their findings and when it isn’t, bad events can occur like Flint, Michigan’s water crisis [2].  True transparency in science extends even further than correctly reported findings.  What good is a sheet of data if you don’t understand what it means?  True transparency cuts through the haze of scientific terminology, which does exist for good reasons, but can be a roadblock to someone unfamiliar with the terms.  And it does so in a manner that clearly explains the research and findings in an unbiased way that is digestible to the public.  In this way science can be made more accessible to more people which will benefit science and the world in the long run.
+
+
+Works Cited
+Carson, R. (2015). Silent Spring. London: Penguin Books, in association with Hamish Hamilton.
+Poisoned Water. (2017). Retrieved 3 June 2020, from https://www.pbs.org/wgbh/nova/video/poisoned-water/ 
