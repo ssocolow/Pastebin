@@ -1,0 +1,16 @@
+-90
+-825
+486*(2/3)^9
+-90, -825, 486*(2/3)^9, 1458
+divide
+less than 1
+and not negative
+not imaginary
+d
+D
+terms of y
+why is there no way to solve it algebraically?
+does that reveal a deeper truth about the universe?
+I think so
+I did that too
+I left it as integral
