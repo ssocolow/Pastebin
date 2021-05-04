@@ -113,6 +113,7 @@ while True:
         print(c)
         lives -= 1
         quit()
+  #code can break if time goes negative
   if c % 120 == 0:
     t = t - 0.01
   #b.print_board()
