@@ -1,12 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main(void)
 {
   int a = 0;
-  for(int i = 0; i < 10000000000; i++)
+  for(long i = 0; i < 21000000000; i++)
   {
-    a++;
+    a = i;
   }
   printf("a: %d\n",a);
 }
-
