@@ -32,8 +32,10 @@ function reccomdedClasses(info){
   switch(info[1]){
     case "Honors Earth Science":
       if (info[2] === "A" || "B" || "C") {
-        return "Recconemdation is L1 Bio and Honors Bio"
+        return "Recommendation is L1 Bio and Honors Bio"
       }
+      case "Unknown":
+        return "Recommendation is something "
   }
 }
 //append info to spreadsheet
