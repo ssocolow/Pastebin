@@ -1,0 +1,2 @@
+The pictures of the buzzer system are here: https://photos.app.goo.gl/vufAWaQVE3JAUFSA7
+The two metal contacts on the plugin end of the buzzer are electrically connected when the buzzer is pressed
