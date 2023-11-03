@@ -25,7 +25,7 @@ contract EphCoin is IERC20 {
 
     string public constant name = "WilliamsERC20";
     string public constant symbol = "WBC";
-    uint8 public constant decimals = 2;
+    uint8 public constant decimals = 0;
 
 
     mapping(address => uint256) balances;
